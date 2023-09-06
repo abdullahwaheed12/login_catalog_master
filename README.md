@@ -1,19 +1,3 @@
-<h1 align="center">
-   Login Catalog
-</h1>
-<h3 align="center">
-  <a href="http://davidcobbina.com" target="_blank">davidcobbina.com</a>
-</h3>
-<p align="center">
-    A catalog of beautiful login UI built with <strong>flutter</strong>.
-</p>
-
-<p align="center">
-Beautifully crafted with flutter and love, a useful UI full of different Login and Registration Screens
-to help developers kickstart their apps faster.
-</p>
-
-<a href="https://play.google.com/store/apps/details?id=dev.davidcobbina.logincatalog" target="_blank"><img src="assets/screenshots/playstore.png"/></a>
 
 ### Login Design 1
 ![Screenshot](assets/screenshots/login1.png)
